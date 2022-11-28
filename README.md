@@ -15,4 +15,4 @@ The end challenge for Modole 1 was to refactor a landing page to meet accessibil
 - Condensed code for styles across the page
 
 ## Learning
-I have learnt many terms for semantic elements used in HTML pages. I can confidently create a basic HTML page with several elements in it. I can link this page to a style sheet and use CSS styles for my layout and appearance. 
+I have learnt many terms for semantic elements used in HTML pages. I can confidently create a basic HTML page with several elements in it. I can link this page to a style sheet and use CSS styles for my layout and appearance. I've also learnt how to refactor code to use less code and make it more readable.
